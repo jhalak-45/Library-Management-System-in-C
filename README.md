@@ -1,4 +1,3 @@
-Here's a detailed README file for the "Everest Engineering College Library Information System" project:
 
 ---
 
