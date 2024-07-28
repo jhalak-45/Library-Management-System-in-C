@@ -1,0 +1,22 @@
+C Programming|Dr. Ram Dhami|90099939
+Microprocessor|JK. Marsh|80999333
+C Programming|Dr. Ram Dhami|90099939
+Microprocessor|JK. Marsh|80999333
+C++|Jamesh|67000033
+Java|Katie Singh|78001011
+Python|Alex Kim|72002222
+JavaScript|Sophia Lee|61003333
+HTML/CSS|David Brown|54004444
+SQL|Emily Chen|45005555
+PHP|Michael Nguyen|38006666
+Ruby|Lily Garcia|31007777
+Swift|William Patel|24008888
+Kotlin|Emma Smith|17009999
+Go|Oliver Wang|10011111
+Rust|Ava Johnson|40112222
+Perl|Ethan Williams|33113333
+MATLAB|Chloe Martinez|26114444
+Assembly|Lucas Anderson|19115555
+TypeScript|Zoe Thomas|12116666
+R|Liam Nguyen|51117777
+Bash|Harper Wilson|44118888
